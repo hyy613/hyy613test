@@ -2,3 +2,4 @@ this is my first git file on my computer
 this is the first change
 second change
 third change
+change it to try the mix reset command
